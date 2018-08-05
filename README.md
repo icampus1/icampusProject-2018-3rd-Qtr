@@ -6,7 +6,7 @@ if you want to start django project,
 First, make a virtualenv
 `$ python -m venv myvenv`
 
-and start virtualenv
+,start virtualenv
 `$ myvenv\Scripts\activate`
 
 and start server
